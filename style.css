@@ -79,5 +79,227 @@ color:white;
 .banner-image img{
 width: 554px;
 height: 346px;
-margin-top: 20px;
+margin-top: 40px;
 }
+
+.first-card{
+    width:270px;
+    height:270px;
+    background-color:#F8FFFB; 
+    border:none;
+    
+}
+
+.first-card:hover{
+    background-color:white;
+   border-radius:10px;
+   box-shadow:0px 0px 5px 5px #EBEBEB;
+}
+
+.first-card h5{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+}
+
+.first-card p{
+    width: 128px;
+height: 24px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+margin-left:35px;
+text-align: center;
+
+color: #585859;
+
+}
+
+.first-card-deck{
+    margin-top: 40px;;
+}
+/**First Card First Image **/
+.book-image{
+width: 66px;
+height: 85px;
+}
+
+/**First Card Second Image **/
+
+.Student-image{
+    width: 80px;
+    height: 83px
+}
+
+/**First Card Third Image **/
+
+.Test-image{
+    width: 75px;
+    height: 80px;
+}
+
+/**First Card Fourth Image **/
+
+.Students-image{
+    width: 68px;
+    height: 76px;
+}
+
+.online-courses-headline{
+    margin-top:100px;
+}
+
+.second-card img{
+    width:90%;
+    margin-top:20px;
+    box-shadow: none;
+}
+
+.second-card-body h5{
+width: 237px;
+height: 36px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+
+.second-card-body p{
+width: 96px;
+height: 24px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+color: #585859;
+}
+
+.buy-course-button{
+
+    width: 137px;
+    height: 35px;
+    background: #21B573;
+    
+    border:none;
+    border-radius:33px;
+    color:white;
+   }
+
+
+   .card-footer img{
+    width:24px;
+    height:24px;
+    margin-top:-5px;
+    }
+
+    .text-muted{
+        width: 146px;
+        height: 24px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #585859;
+    
+       }
+
+       .seats{
+        width: 68px;
+        height: 24px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #585859;
+        
+       }
+    
+
+       /** TESTIMONIAL CSS starts from here**/
+
+       .testimonial-text{
+        width: 219px;
+        height: 54px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 54px;
+        color: #000000;
+        margin:50px auto; 
+       }
+       
+       .carousel-item img{
+           width:120px;
+           height:120px;
+       }
+
+       .man-photo{
+           margin-left:200px;
+       }
+
+       .testimonials{
+           margin-right:200px;
+           margin-top:20px;
+       }
+
+       .carousel-control-prev{
+        background-color:lightgray;
+        width: 50px;
+        height: 20px;
+        margin-top: 50px;
+       }
+       .carousel-control-next{
+        background-color:lightgrey;
+        width: 50px;
+        height: 20px;
+        margin-top: 50px;
+       }
+       /**TESTIMONIAL SECTION CSS ENDS HERE **/
+
+       /** FOOTER CSS STARTS HERE**/
+
+       .footer{
+    
+        background: #282531;;
+       margin-top:50px;
+        padding:45px 0 20px 0;
+      }
+    
+      .footer li{
+          color:white;
+          list-style: none;
+          font-weight: bold;
+      }
+    .footer li a{
+        color:white;
+        text-decoration: none;
+        font-weight: 400;
+        padding-top:5px;
+    }
+      .footer p{
+          color:white;
+      }
+      
+      .footer-text{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 30px;
+        margin-top:50px; 
+      }
+    
+      .footer-text p{
+          text-align:center;
+      }
