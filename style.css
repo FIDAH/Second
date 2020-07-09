@@ -1,0 +1,22 @@
+.img-fluid{
+    width:198px;
+    height:59px;
+}
+.top-menu{
+    background:#F0FFF0;
+}
+
+.sign-in-button{
+width: 104px;
+height: 43px;
+background: #21B573;
+border-radius: 33px;
+border:none;
+color:white;
+margin-top:3px;
+margin-left:5px;
+}
+
+.navbar-nav li{
+    padding:12px;
+}
